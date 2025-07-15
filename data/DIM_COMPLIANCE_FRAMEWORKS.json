@@ -1,0 +1,98 @@
+[
+  {
+    "framework_id": 1,
+    "framework_name": "SOC2_Type_I",
+    "framework_category": "security_audit",
+    "complexity_score": 4,
+    "avg_completion_days": 90,
+    "industry_relevance": "all_industries",
+    "geographic_scope": "global",
+    "automation_percentage": 75,
+    "annual_audit_required": false,
+    "certification_cost_usd": 25000
+  },
+  {
+    "framework_id": 2,
+    "framework_name": "SOC2_Type_II",
+    "framework_category": "security_audit",
+    "complexity_score": 7,
+    "avg_completion_days": 180,
+    "industry_relevance": "all_industries",
+    "geographic_scope": "global",
+    "automation_percentage": 65,
+    "annual_audit_required": true,
+    "certification_cost_usd": 45000
+  },
+  {
+    "framework_id": 3,
+    "framework_name": "ISO27001",
+    "framework_category": "security_management",
+    "complexity_score": 8,
+    "avg_completion_days": 240,
+    "industry_relevance": "all_industries",
+    "geographic_scope": "global",
+    "automation_percentage": 60,
+    "annual_audit_required": true,
+    "certification_cost_usd": 35000
+  },
+  {
+    "framework_id": 4,
+    "framework_name": "HIPAA",
+    "framework_category": "healthcare_privacy",
+    "complexity_score": 6,
+    "avg_completion_days": 150,
+    "industry_relevance": "healthtech",
+    "geographic_scope": "usa",
+    "automation_percentage": 70,
+    "annual_audit_required": false,
+    "certification_cost_usd": 15000
+  },
+  {
+    "framework_id": 5,
+    "framework_name": "GDPR",
+    "framework_category": "data_privacy",
+    "complexity_score": 7,
+    "avg_completion_days": 120,
+    "industry_relevance": "all_industries",
+    "geographic_scope": "eu_global",
+    "automation_percentage": 55,
+    "annual_audit_required": false,
+    "certification_cost_usd": 20000
+  },
+  {
+    "framework_id": 6,
+    "framework_name": "PCI_DSS",
+    "framework_category": "payment_security",
+    "complexity_score": 5,
+    "avg_completion_days": 90,
+    "industry_relevance": "ecommerce_fintech",
+    "geographic_scope": "global",
+    "automation_percentage": 80,
+    "annual_audit_required": true,
+    "certification_cost_usd": 30000
+  },
+  {
+    "framework_id": 7,
+    "framework_name": "FedRAMP",
+    "framework_category": "government_cloud",
+    "complexity_score": 9,
+    "avg_completion_days": 365,
+    "industry_relevance": "government_contractors",
+    "geographic_scope": "usa",
+    "automation_percentage": 45,
+    "annual_audit_required": true,
+    "certification_cost_usd": 150000
+  },
+  {
+    "framework_id": 8,
+    "framework_name": "NIST_CSF",
+    "framework_category": "cybersecurity_framework",
+    "complexity_score": 6,
+    "avg_completion_days": 180,
+    "industry_relevance": "all_industries",
+    "geographic_scope": "usa_global",
+    "automation_percentage": 70,
+    "annual_audit_required": false,
+    "certification_cost_usd": 25000
+  }
+]

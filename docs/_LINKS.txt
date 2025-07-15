@@ -1,0 +1,10 @@
+COMPANY:
+https://www.PhantomSec.com/ (fake company)
+
+SNOWFLAKE SEMANTIC VIEWS:
+https://docs.snowflake.com/en/user-guide/views-semantic/overview
+https://docs.snowflake.com/en/user-guide/views-semantic/sql
+https://docs.snowflake.com/en/user-guide/views-semantic/example
+https://docs.snowflake.com/en/user-guide/views-semantic/validation-rules
+https://docs.snowflake.com/en/user-guide/views-semantic/querying
+
